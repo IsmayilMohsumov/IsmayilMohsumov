@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**IsmayilMohsumov/IsmayilMohsumov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋 My name is Ismayil Mohsumov <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+============================
 
-Here are some ideas to get you started:
+## Junior Java Developer | Spring framework | Thymeleaf
+I'm Marton, a 21 years old Junior Java Developer. I am broading my knowledge every day by learning new things in my sphere.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Poland, Warsaw
+* ✉️  You can contact me at [mohsumovismayil@gmail.com](mailto:mohsumovismayil@gmail.com)
+* 🧠  I'm learning and practicing Java, Spring
+* 🤝  I'm open to collaborate on interesting, fun, cool projects
+
+## Skills
+- 👨‍💻 Java, Spring framework
+- ⚙️ Docker, Gradle, Linux
+- 👁️ HTML, CSS, JS
+- 💽 MySQL, SQL, Oracle
+
+## Contact
+- [@ismayilmohsumov](https://www.linkedin.com/in/ismayil-mohsumov/) on LinkedIn

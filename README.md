@@ -3,7 +3,7 @@ Hi 👋 My name is Ismayil Mohsumov <img src="https://raw.githubusercontent.com/
 ============================
 
 ## Junior Java Developer | Spring framework | Thymeleaf
-I'm Marton, a 21 years old Junior Java Developer. I am broading my knowledge every day by learning new things in my sphere.
+I'm Ismayil, a 21 years old Junior Java Developer. I am broading my knowledge every day by learning new things in my sphere.
 
 * 🌍  I'm based in Poland, Warsaw
 * ✉️  You can contact me at [mohsumovismayil@gmail.com](mailto:mohsumovismayil@gmail.com)

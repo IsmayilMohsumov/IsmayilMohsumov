@@ -2,8 +2,8 @@
 Hi 👋 My name is Ismayil Mohsumov <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
 ============================
 
-## Junior Java Developer | Spring framework | Thymeleaf
-I'm Ismayil, a 22 years old Junior Java Developer. I am broading my knowledge every day by learning new things in my sphere.
+## Experienced Java Developer | Spring framework | Thymeleaf
+I'm Ismayil. I am broading my knowledge every day by learning new things in my sphere.
 
 * 🌍  I'm based in Poland, Warsaw
 * ✉️  You can contact me at [mohsumovismayil@gmail.com](mailto:mohsumovismayil@gmail.com)
